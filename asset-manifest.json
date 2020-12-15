@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ar-with-react/static/css/main.0227c5bd.chunk.css",
-    "main.js": "/ar-with-react/static/js/main.2e99f70b.chunk.js",
+    "main.js": "/ar-with-react/static/js/main.66bfdbe2.chunk.js",
     "runtime-main.js": "/ar-with-react/static/js/runtime-main.bc949d4f.js",
     "static/js/2.48b8f129.chunk.js": "/ar-with-react/static/js/2.48b8f129.chunk.js",
     "index.html": "/ar-with-react/index.html",
@@ -11,6 +11,6 @@
     "static/js/runtime-main.bc949d4f.js",
     "static/js/2.48b8f129.chunk.js",
     "static/css/main.0227c5bd.chunk.css",
-    "static/js/main.2e99f70b.chunk.js"
+    "static/js/main.66bfdbe2.chunk.js"
   ]
 }
