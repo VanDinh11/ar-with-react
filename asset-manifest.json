@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ar-with-react/static/css/main.0227c5bd.chunk.css",
-    "main.js": "/ar-with-react/static/js/main.66bfdbe2.chunk.js",
+    "main.css": "/ar-with-react/static/css/main.7cf16a3c.chunk.css",
+    "main.js": "/ar-with-react/static/js/main.e58969c3.chunk.js",
     "runtime-main.js": "/ar-with-react/static/js/runtime-main.bc949d4f.js",
-    "static/js/2.48b8f129.chunk.js": "/ar-with-react/static/js/2.48b8f129.chunk.js",
+    "static/js/2.dd9f5ab4.chunk.js": "/ar-with-react/static/js/2.dd9f5ab4.chunk.js",
     "index.html": "/ar-with-react/index.html",
-    "static/js/2.48b8f129.chunk.js.LICENSE.txt": "/ar-with-react/static/js/2.48b8f129.chunk.js.LICENSE.txt"
+    "static/js/2.dd9f5ab4.chunk.js.LICENSE.txt": "/ar-with-react/static/js/2.dd9f5ab4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bc949d4f.js",
-    "static/js/2.48b8f129.chunk.js",
-    "static/css/main.0227c5bd.chunk.css",
-    "static/js/main.66bfdbe2.chunk.js"
+    "static/js/2.dd9f5ab4.chunk.js",
+    "static/css/main.7cf16a3c.chunk.css",
+    "static/js/main.e58969c3.chunk.js"
   ]
 }
