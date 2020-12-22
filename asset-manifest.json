@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ar-with-react/static/css/main.7cf16a3c.chunk.css",
-    "main.js": "/ar-with-react/static/js/main.bad45f9f.chunk.js",
+    "main.js": "/ar-with-react/static/js/main.641f12e6.chunk.js",
     "runtime-main.js": "/ar-with-react/static/js/runtime-main.bc949d4f.js",
-    "static/js/2.306362a9.chunk.js": "/ar-with-react/static/js/2.306362a9.chunk.js",
+    "static/js/2.dd9f5ab4.chunk.js": "/ar-with-react/static/js/2.dd9f5ab4.chunk.js",
     "index.html": "/ar-with-react/index.html",
-    "static/js/2.306362a9.chunk.js.LICENSE.txt": "/ar-with-react/static/js/2.306362a9.chunk.js.LICENSE.txt"
+    "static/js/2.dd9f5ab4.chunk.js.LICENSE.txt": "/ar-with-react/static/js/2.dd9f5ab4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bc949d4f.js",
-    "static/js/2.306362a9.chunk.js",
+    "static/js/2.dd9f5ab4.chunk.js",
     "static/css/main.7cf16a3c.chunk.css",
-    "static/js/main.bad45f9f.chunk.js"
+    "static/js/main.641f12e6.chunk.js"
   ]
 }
