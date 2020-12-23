@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/ar-with-react/static/css/main.d253db1c.chunk.css",
-    "main.js": "/ar-with-react/static/js/main.a4915e7b.chunk.js",
-    "main.js.map": "/ar-with-react/static/js/main.a4915e7b.chunk.js.map",
+    "main.js": "/ar-with-react/static/js/main.b9e8d379.chunk.js",
+    "main.js.map": "/ar-with-react/static/js/main.b9e8d379.chunk.js.map",
     "runtime-main.js": "/ar-with-react/static/js/runtime-main.bc949d4f.js",
     "runtime-main.js.map": "/ar-with-react/static/js/runtime-main.bc949d4f.js.map",
-    "static/js/2.13630a67.chunk.js": "/ar-with-react/static/js/2.13630a67.chunk.js",
-    "static/js/2.13630a67.chunk.js.map": "/ar-with-react/static/js/2.13630a67.chunk.js.map",
+    "static/js/2.dd9f5ab4.chunk.js": "/ar-with-react/static/js/2.dd9f5ab4.chunk.js",
+    "static/js/2.dd9f5ab4.chunk.js.map": "/ar-with-react/static/js/2.dd9f5ab4.chunk.js.map",
     "index.html": "/ar-with-react/index.html",
     "static/css/main.d253db1c.chunk.css.map": "/ar-with-react/static/css/main.d253db1c.chunk.css.map",
-    "static/js/2.13630a67.chunk.js.LICENSE.txt": "/ar-with-react/static/js/2.13630a67.chunk.js.LICENSE.txt"
+    "static/js/2.dd9f5ab4.chunk.js.LICENSE.txt": "/ar-with-react/static/js/2.dd9f5ab4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bc949d4f.js",
-    "static/js/2.13630a67.chunk.js",
+    "static/js/2.dd9f5ab4.chunk.js",
     "static/css/main.d253db1c.chunk.css",
-    "static/js/main.a4915e7b.chunk.js"
+    "static/js/main.b9e8d379.chunk.js"
   ]
 }
