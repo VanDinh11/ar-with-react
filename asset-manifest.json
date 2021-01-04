@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ar-with-react/static/css/main.085bdea5.chunk.css",
-    "main.js": "/ar-with-react/static/js/main.64f2820a.chunk.js",
-    "main.js.map": "/ar-with-react/static/js/main.64f2820a.chunk.js.map",
+    "main.js": "/ar-with-react/static/js/main.d254e645.chunk.js",
+    "main.js.map": "/ar-with-react/static/js/main.d254e645.chunk.js.map",
     "runtime-main.js": "/ar-with-react/static/js/runtime-main.bc949d4f.js",
     "runtime-main.js.map": "/ar-with-react/static/js/runtime-main.bc949d4f.js.map",
     "static/js/2.dd9f5ab4.chunk.js": "/ar-with-react/static/js/2.dd9f5ab4.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.bc949d4f.js",
     "static/js/2.dd9f5ab4.chunk.js",
     "static/css/main.085bdea5.chunk.css",
-    "static/js/main.64f2820a.chunk.js"
+    "static/js/main.d254e645.chunk.js"
   ]
 }
